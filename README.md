@@ -317,7 +317,7 @@ Alternatively, you can specify a single test file to run at a time:
 $ python3 unittest -m tests/test_console.py
 ```
 
-## Authors :black_nib:
+## Authors senegal team
 * **Baye cheikh fall** <[baye94](https://github.com/baye94)>
 * **Mathias Dib Faye** <[Mathias](https://github.com/)>
 * 
