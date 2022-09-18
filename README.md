@@ -319,5 +319,5 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors senegal team
 * **Baye cheikh fall** <[baye94](https://github.com/baye94)>
-* **Mathias Dib Faye** <[Mathias](https://github.com/)>
+* **Mathias Dib Faye** <[Mathias](https://github.com/dib-ops)>
 * 
